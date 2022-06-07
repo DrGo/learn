@@ -1,0 +1,5 @@
+# Logic
+
+Logic is concerned with whether inference from premisses is internally cogent – i.e., assuming the premisses are true, do they really support the truth of the conclusion [IFL2]. An inference step is *valid* if and only if there is no possible situation in which its premisses would be true and its conclusion false. An inference step is valid if and only if it is necessary, in the strongest sense, that if the inference’s premisses are true, so is its conclusion. For short, valid inferences are necessarily truth-preserving.An inference step is valid if and only if its premisses taken together with the denial of the conclusion are inconsistent. The invalidity principle An inference step with actually true premisses and an actually false conclusion must be invalid.
+A (one-step) argument is valid if and only if the inference step from the premisses to the conclusion is valid.
+A (one-step) argument is sound if and only if it has all true premisses and the inference step from those premisses to the conclusion is valid.
